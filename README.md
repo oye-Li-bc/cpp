@@ -1,6 +1,6 @@
 # C++ for Control
 
-![C++ for Control 项目封面](.github/readme/cover.svg)
+![C++ for Control 项目封面](.github/readme/cover-imagegen.webp)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-project-516d64)
 [![Portfolio](https://img.shields.io/badge/oye-portfolio-516d64)](https://oye-li-bc.github.io/)
@@ -47,4 +47,4 @@
 - [研究工作流 Skills](https://github.com/oye-Li-bc/research-workflow-skills)
 - [个人作品集](https://oye-li-bc.github.io/)
 
-封面与路线图均为可编辑 SVG；[图片说明](.github/readme/README.md)。
+封面由 imagegen 生成，路线图为可编辑 SVG；[图片说明](.github/readme/README.md)。
